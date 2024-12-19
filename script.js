@@ -25,7 +25,7 @@ resetBtn.onclick = () => {
     task.textContent = "CALCULATOR"
 }
 
-mutiplyBtn.onclick = () => {
+multiplyBtn.onclick = () => {
     count = 0;
     answer.textContent = count;
     task.textContent = "CALCULATOR"
